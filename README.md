@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm HanJin Seo</h1>
 
 <p align="center">
-<image src="https://img.shields.io/badge/TechBlog-00B388?style=flat-square&logo=vimeo&logoColor=white&link=https://velog.io/@sloth">
-<image src="https://img.shields.io/badge/seohanjin503@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white">
+<image src="https://img.shields.io/badge/TechBlog-00B388?style=flat-square&logo=vimeo&logoColor=white&link=https://velog.io/@sloth" />
+<image src="https://img.shields.io/badge/seohanjin503@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </p>
 <br>
 <h3 align="center">😄I'm BackEnd Developer using Spring Framework</h3>
